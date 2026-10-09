@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "dynamic-programming",
+    "name": "Dynamic Programming",
+    "tagId": "13"
+  },
+  "updatedAt": "2026-10-09T19:30:18.578Z",
+  "problems": [
+    {
+      "frontendId": "198",
+      "title": "House Robber",
+      "slug": "house-robber",
+      "problemName": "0198-house-robber",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber/",
+      "folderPath": "0198-house-robber/",
+      "readmePath": "0198-house-robber/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0198-house-robber.java",
+          "path": "0198-house-robber/0198-house-robber.java",
+          "sha": "d19ba3882737cfd25f3bd5ec409c15caf84f679a",
+          "lastSyncedAt": "2026-10-09T19:30:18.578Z"
+        }
+      ]
+    }
+  ]
+}
