@@ -5,7 +5,7 @@
     "name": "Pigeonhole Principle",
     "tagId": "87235"
   },
-  "updatedAt": "2026-10-09T19:31:19.411Z",
+  "updatedAt": "2026-10-09T19:34:04.063Z",
   "problems": [
     {
       "frontendId": "287",
@@ -23,7 +23,7 @@
           "filename": "0287-find-the-duplicate-number.java",
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.java",
           "sha": "b3fde69a0cf9584833ecebb99bf0d12730eb425f",
-          "lastSyncedAt": "2026-10-09T19:31:19.411Z"
+          "lastSyncedAt": "2026-10-09T19:34:04.063Z"
         }
       ]
     }
