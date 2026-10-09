@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-09T19:31:05.251Z",
+  "updatedAt": "2026-10-09T19:31:19.411Z",
   "problems": [
     {
       "frontendId": "1",
@@ -84,6 +84,26 @@
           "path": "0198-house-robber/0198-house-robber.java",
           "sha": "d19ba3882737cfd25f3bd5ec409c15caf84f679a",
           "lastSyncedAt": "2026-10-09T19:30:18.578Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "287",
+      "title": "Find the Duplicate Number",
+      "slug": "find-the-duplicate-number",
+      "problemName": "0287-find-the-duplicate-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number/",
+      "folderPath": "0287-find-the-duplicate-number/",
+      "readmePath": "0287-find-the-duplicate-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0287-find-the-duplicate-number.java",
+          "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.java",
+          "sha": "b3fde69a0cf9584833ecebb99bf0d12730eb425f",
+          "lastSyncedAt": "2026-10-09T19:31:19.411Z"
         }
       ]
     },
